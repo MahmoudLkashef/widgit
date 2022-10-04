@@ -1,3 +1,4 @@
 need to pull this file down
 adding some configurations
+adding a couple of more config values that are needed
 
